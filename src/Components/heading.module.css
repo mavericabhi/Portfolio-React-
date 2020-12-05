@@ -1,0 +1,17 @@
+.container {
+  width: 60%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.heading {
+  font-size: 80px;
+}
+
+.about {
+  font-size: 40px;
+}
+
+.name {
+  color: indianred;
+}

@@ -1,0 +1,10 @@
+.container {
+  width: 60%;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.li {
+  font-size: 24px;
+  margin-top: 20px;
+}
