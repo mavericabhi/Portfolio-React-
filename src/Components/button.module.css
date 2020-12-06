@@ -10,4 +10,11 @@
   border-radius: 25px;
   border: none;
   margin-top: 40px;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn a {
+  text-decoration: none;
+  color: aliceblue;
 }
