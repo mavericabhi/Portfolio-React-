@@ -1,10 +1,16 @@
-
 .heading {
   font-size: 80px;
 }
 
+.container {
+  background-image: url(./bg.png);
+  background-position: right;
+  background-size: 340px;
+  background-repeat: no-repeat;
+}
+
 .about {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .name {

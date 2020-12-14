@@ -1,8 +1,12 @@
 import React from 'react'
+import aboutstyle from './about.module.css'
 
 const About = () => {
     return (
         <div>
+            <div className={aboutstyle.image}>
+                
+            </div>
             <h1>Technical Skills</h1>
             <p>C , C++ , Core Java , Node Js , SQL , 
                 Data Structures, Operating Systems , DBMS.
